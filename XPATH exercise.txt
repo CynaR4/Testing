@@ -1,0 +1,5 @@
+1) //h1
+2) //div[@class='content']
+3) //h1/parent::*
+4) //header[@id="header"][@class="clearfix"]
+5) //*[@id="header"][@class="clearfix"]
